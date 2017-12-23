@@ -3,7 +3,10 @@
 
 <category>
 <pattern> *  JOKE * </pattern>
-<template>NO.</template>
+<template><random>
+<li>NO.</li>
+<li>Bow down to your president, Donald Duck.</li>
+</template><random>
 </category>
 
 </aiml>
